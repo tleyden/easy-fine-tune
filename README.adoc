@@ -4,10 +4,36 @@
 
 Easily build fine-tuned Imagenet models with Keras and Tensorflow
 
-== Examples
+== Quick start
+
+=== Clone repo
+
+```
+$ git clone git@github.com:tleyden/easy-fine-tune.git
+$ cd easy-fine-tune
+```
+
+=== Create venv + pip install
+
+```
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+
+=== Run jupyter notebook
+
+```
+$ jupyter notebook 
+```
+
+=== Open Notebook
+
+== Notebooks
 
 * dogs_vs_cats.ipynb[Dogs vs Cats]
-* german_traffic_signs.ipynb[German Traffic Signs]
+
+
 
 == References
 
