@@ -6,6 +6,8 @@ Easily build fine-tuned Imagenet models with Keras and Tensorflow
 
 == Quick start
 
+*Verified on Ubuntu Bionic*
+
 === Clone repo
 
 ```
@@ -29,11 +31,13 @@ $ jupyter notebook
 
 === Open Notebook
 
+http://localhost:8888/notebooks/dogs_vs_cats.ipynb[http://localhost:8888/notebooks/dogs_vs_cats.ipynb]
+
+(you will need to provide the token, see the `jupyter` CLI output)
+
 == Notebooks
 
-* dogs_vs_cats.ipynb[Dogs vs Cats]
-
-
+* link:dogs_vs_cats.ipynb[Dogs vs Cats]
 
 == References
 
